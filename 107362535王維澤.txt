@@ -3,6 +3,6 @@ Proxy Logan 問題起源&危機
 
 DEVCORE研究團隊過去曾揭露 Amazon、Facebook、Twitter、GitHub與Uber等國際企業的遠端程式碼執行漏洞 (RCE vulnerabilities)。除此之外，團隊亦曾深入研究包含Exim及Dovecot等郵件相關解決方案。
 同時也將此項漏洞稱為「ProxyLogon」針對近期微軟公布修補遭駭客攻擊的ExchangeServer漏洞問題，
-台灣DEVCORE表示早在1月5日便已發現，並且向微軟通報此項編號命名為「CVE-2021-26855」，
+台灣DEVCORE表示早在1月5日便已發現，並且向喔喔微軟通報此項編號命名為「CVE-2021-26855」，
 以及「CVE-2021-27065」的零日漏洞，同時也將此項漏洞稱為「ProxyLogon」。
 此次揭露的「ProxyLogon」漏洞，是以無需驗證即可使用的遠端程式碼執行 (Pre-Auth Remote Code Execution；Pre-Auth RCE)零日漏洞(Zero-day exploit)，可讓攻擊者得以繞過身份驗證步驟，驅使系統管理員協助執行惡意文件或執行指令，進而觸發更廣泛的攻擊。「ProxyLogon」是微軟近期被揭露最重大的RCE漏洞之一，DEVCORE團隊遵循責任揭露 (Responsible Disclosure)原則，在發現後便第一時間立即於今年1月5日通報微軟進行修補，避免該漏洞遭有心人士利用，造成全球用戶重大損失。
