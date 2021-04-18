@@ -1,5 +1,5 @@
 Proxy Logan 問題起源&危機
-什麼是 Proxy Logan & 如何被發現的?
+什麼是 Proxy Logan & 如何被發現的?ㄜ ㄜ
 
 DEVCORE研究團隊過去曾揭露 Amazon、Facebook、Twitter、GitHub與Uber等國際企業的遠端程式碼執行漏洞 (RCE vulnerabilities)。除此之外，團隊亦曾深入研究包含Exim及Dovecot等郵件相關解決方案。
 同時也將此項漏洞稱為「ProxyLogon」針對近期微軟公布修補遭駭客攻擊的ExchangeServer漏洞問題，
